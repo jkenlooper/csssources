@@ -1,6 +1,6 @@
 {
   "name": "csssources",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Use postcss-import plugin to list files imported by parsing the sourcemap.",
   "main": "index.js",
   "bin": {
